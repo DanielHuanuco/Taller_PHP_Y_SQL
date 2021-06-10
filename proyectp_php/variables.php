@@ -18,4 +18,6 @@ function prue(){
 }
 prue();
 echo $rosa;
+//b //b n
+
 ?>
