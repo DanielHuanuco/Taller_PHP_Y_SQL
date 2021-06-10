@@ -8,4 +8,6 @@ $sueño = "ahora";
 const MARCA= "HP";
 $titulo = "code";
 $temperatura = 24.0;
+const MARCACU="justus";
+const CASA="peru";
 ?>
